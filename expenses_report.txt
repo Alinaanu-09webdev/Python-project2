@@ -1,0 +1,9 @@
+Expense Tracker Report
+==============================
+Generated on: 2026-07-01 13:20:24.445444
+
+1. 100 - Food - 13:19:45
+2. 50 - Travel - 13:19:56
+3. 20 - Done - 13:20:02
+
+TOTAL SPENT: 170
